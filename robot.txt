@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alatberatsurabaya.my.id/sitemap.xml
+Sitemap: https://alatberatsurabaya.web.id/sitemap.xml
